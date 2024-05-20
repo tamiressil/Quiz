@@ -1,8 +1,9 @@
-# React + Vite
+# Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Criação de um quiz de perguntas e respostas , onde o usuário pode escolher uma resposta entre várias opções e receber um feedback sobre as  suas escolhas.
 
-Currently, two official plugins are available:
+https://quiz-pied-delta.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/tamiressil/Quiz/assets/163886976/f0ec58d3-daf0-4555-8ba5-eead47371143)
+
+
